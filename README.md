@@ -1,6 +1,6 @@
 # aki-chain QUICK START
 A blockchain testnet based on graphene toolkit
-AUTHOR:Akirasen AKA langta,TONI LAI,LAI FEI LIM 
+AUTHOR:Akirasen AKA langta,TONI LAI,LAI FEI LIM ~
 
 ## 1.Enable a screen
 ```
