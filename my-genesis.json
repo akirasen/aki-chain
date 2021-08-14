@@ -1,0 +1,728 @@
+{
+  "initial_timestamp": "2021-08-10T00:13:42",
+  "max_core_supply": "1000000000000000",
+  "initial_parameters": {
+    "current_fees": {
+      "parameters": [[
+          0,{
+            "fee": 2000000,
+            "price_per_kbyte": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          1,{
+            "basic_fee": 500000,
+            "price_per_auth": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          2,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          3,{
+            "fee": 100000,
+            "price_per_auth": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          4,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          5,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          6,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          7,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          8,{
+            "fee": 10000000,
+            "min_real_fee": 10000000,
+            "min_rf_percent": 10000
+          }
+        ],[
+          9,{
+            "fee": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          10,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          11,{
+            "basic_fee": 100000,
+            "price_per_item": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          12,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          13,{
+            "fee": 100000000,
+            "min_real_fee": 100000000,
+            "min_rf_percent": 10000
+          }
+        ],[
+          14,{
+            "fee": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          15,{
+            "basic_fee": 100000,
+            "price_per_witness": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          16,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          17,{
+            "fee": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          18,{
+            "fee": 100000,
+            "price_per_kbyte": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          19,{
+            "fee": 100000,
+            "price_per_kbyte": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          20,{
+            "fee": 100000000,
+            "min_real_fee": 100000000,
+            "min_rf_percent": 10000,
+            "price_per_kbyte": 1000000
+          }
+        ],[
+          21,{
+            "fee": 1000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0,
+            "price_per_kbyte": 1000000
+          }
+        ],[
+          22,{
+            "basic_fee": 100000,
+            "price_per_platform": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          23,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          24,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          25,{
+            "symbol3": "100000000000000",
+            "symbol4": "100000000000000",
+            "long_symbol": "100000000000000",
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 10000
+          }
+        ],[
+          26,{
+            "fee": 50000000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          27,{
+            "fee": 2000000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          28,{
+            "fee": "100000000000000",
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          29,{
+            "fee": 2000000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          30,{
+            "fee": 2000000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          31,{
+            "fee": 2000000,
+            "price_per_kbyte": 10
+          }
+        ],[
+          32,{
+            "fee": 2000000,
+            "price_per_kbyte": 10
+          }
+        ],[
+          33,{
+            "fee": 100000
+          }
+        ],[
+          34,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          35,{
+            "fee": 100000,
+            "price_per_asset": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          36,{
+            "fee": 300000
+          }
+        ],[
+          37,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          38,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          39,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          40,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          41,{
+            "fee": 10000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          42,{
+            "fee": 10000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          43,{
+            "fee": 10000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          44,{
+            "fee": 10000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          45,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          46,{
+            "fee": 0,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          47,{
+            "fee": 100000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          48,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          49,{
+            "fee": 10000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          50,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          51,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          52,{
+            "fee": 10000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          53,{
+            "fee": 1000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          54,{
+            "fee": 0,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          55,{
+            "fee": 100000,
+            "price_per_kbyte": 0,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          56,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          57,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          58,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          59,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0,
+            "price_per_kbyte": 1000000
+          }
+        ],[
+          60,{
+            "fee": 50000,
+            "price_per_kbyte_ram": 1000000,
+            "price_per_ms_cpu": 500000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          61,{
+            "fee": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0,
+            "price_per_kbyte": 1000000
+          }
+        ],[
+          62,{
+            "fee": 10000,
+            "price_per_kbyte": 100000,
+            "min_real_fee": 0,
+            "min_rf_percent": 0
+          }
+        ],[
+          63,{
+            "fee": 0
+          }
+        ]
+      ]
+    },
+    "block_interval": 3,
+    "maximum_transaction_size": 65536,
+    "maximum_block_size": 3145728,
+    "maximum_time_until_expiration": 86400,
+    "maximum_authority_membership": 10,
+    "max_authority_depth": 2,
+    "csaf_rate": 864000000,
+    "max_csaf_per_account": 100000000,
+    "csaf_accumulate_window": 604800,
+    "min_witness_pledge": 1000000000,
+    "max_witness_pledge_seconds": 604800,
+    "witness_avg_pledge_update_interval": 1200,
+    "witness_pledge_release_delay": 28800,
+    "min_governance_voting_balance": 1000000000,
+    "max_governance_voting_proxy_level": 4,
+    "governance_voting_expiration_blocks": 2592000,
+    "governance_votes_update_interval": 28800,
+    "max_governance_votes_seconds": 5184000,
+    "max_witnesses_voted_per_account": 101,
+    "max_witness_inactive_blocks": 28800,
+    "by_vote_top_witness_pay_per_block": 100000,
+    "by_vote_rest_witness_pay_per_block": 100000,
+    "by_pledge_witness_pay_per_block": 50000,
+    "by_vote_top_witness_count": 9,
+    "by_vote_rest_witness_count": 1,
+    "by_pledge_witness_count": 1,
+    "budget_adjust_interval": 10512000,
+    "budget_adjust_target": 1000,
+    "committee_size": 5,
+    "committee_update_interval": 864000,
+    "min_committee_member_pledge": 100000000,
+    "committee_member_pledge_release_delay": 28800,
+    "max_committee_members_voted_per_account": 1,
+    "witness_report_prosecution_period": 28800,
+    "witness_report_allow_pre_last_block": false,
+    "witness_report_pledge_deduction_amount": 100000000,
+    "platform_min_pledge": 1000000000,
+    "platform_max_pledge_seconds": 604800,
+    "platform_avg_pledge_update_interval": 1200,
+    "platform_pledge_release_delay": 28800,
+    "platform_max_vote_per_account": 10,
+    "extension_parameters": {
+      "content_award_interval": 0,
+      "platform_award_interval": 0,
+      "max_csaf_per_approval": 100000000,
+      "approval_expiration": 31536000,
+      "min_effective_csaf": 10000000,
+      "total_content_award_amount": 0,
+      "total_platform_content_award_amount": 0,
+      "total_platform_voted_award_amount": 0,
+      "platform_award_min_votes": 1000000,
+      "platform_award_requested_rank": 100,
+      "platform_award_basic_rate": 2000,
+      "casf_modulus": 20000,
+      "post_award_expiration": 31536000,
+      "approval_casf_min_weight": 5000,
+      "approval_casf_first_rate": 3000,
+      "approval_casf_second_rate": 7000,
+      "receiptor_award_modulus": 8000,
+      "disapprove_award_modulus": 12000,
+      "advertising_confirmed_fee_rate": 10,
+      "advertising_confirmed_min_fee": 2000000,
+      "custom_vote_effective_time": 31536000,
+      "min_witness_block_produce_pledge": "50000000000",
+      "content_award_skip_slots": 0,
+      "unlocked_balance_release_delay": 201600,
+      "min_mining_pledge": 100000000,
+      "mining_pledge_release_delay": 201600,
+      "max_pledge_mining_bonus_rate": 9000,
+      "registrar_referrer_rate_from_score": 2500,
+      "max_pledge_releasing_size": 20,
+      "scorer_earnings_rate": 2500,
+      "platform_content_award_min_votes": 1000000000,
+      "csaf_limit_lock_balance_modulus": 10000,
+      "trx_cpu_limit": 20000,
+      "block_cpu_limit": 800000,
+      "max_inter_contract_depth": 3,
+      "max_inline_action_size": 65536
+    }
+  },
+  "initial_accounts": [{
+      "uid": 25638,
+      "name": "init",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": true,
+      "is_full_member": true
+    },{
+      "uid": 25997,
+      "name": "init1",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 26264,
+      "name": "init2",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 26460,
+      "name": "init3",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 26861,
+      "name": "init4",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 27027,
+      "name": "init5",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 27291,
+      "name": "init6",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 27447,
+      "name": "init7",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 27662,
+      "name": "init8",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 27944,
+      "name": "init9",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 28182,
+      "name": "init10",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 28465,
+      "name": "init11",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": true,
+      "is_registrar": false,
+      "is_full_member": true
+    },{
+      "uid": 23080,
+      "name": "nathan",
+      "registrar": 25638,
+      "owner_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "active_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "secondary_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "memo_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK",
+      "is_lifetime_member": false,
+      "is_registrar": false,
+      "is_full_member": false
+    }
+  ],
+  "initial_assets": [],
+  "initial_account_balances": [{
+      "uid": 25638,
+      "asset_symbol": "YOYO",
+      "amount": "1000000000000000"
+    }
+  ],
+  "initial_active_witnesses": 11,
+  "initial_witness_candidates": [{
+      "owner_name": "init1",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init2",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init3",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init4",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init5",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init6",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init7",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init8",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init9",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init10",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    },{
+      "owner_name": "init11",
+      "block_signing_key": "YYW7jpaLdV1A8UsED5kV7H5JZkZUUtAS77moo94oU66FrwXK2peUK"
+    }
+  ],
+  "initial_committee_candidates": [{
+      "owner_name": "init1"
+    },{
+      "owner_name": "init2"
+    },{
+      "owner_name": "init3"
+    },{
+      "owner_name": "init4"
+    },{
+      "owner_name": "init5"
+    },{
+      "owner_name": "init6"
+    },{
+      "owner_name": "init7"
+    },{
+      "owner_name": "init8"
+    },{
+      "owner_name": "init9"
+    },{
+      "owner_name": "init10"
+    },{
+      "owner_name": "init11"
+    }
+  ],
+  "initial_platforms": [{
+      "owner": 23080,
+      "name": "YoYoW",
+      "url": "https://yoyow.org/"
+    }
+  ],
+  "initial_chain_id": "fc4d0a4b31a64eba4a817582d86181682bcca8d40277f129f4de0815764f3271",
+  "immutable_parameters": {
+    "min_committee_member_count": 11,
+    "min_witness_count": 11,
+    "num_special_accounts": 0,
+    "num_special_assets": 0
+  }
+}
