@@ -5,6 +5,7 @@ AUTHOR:Akirasen AKA langta,TONI LAI,LAI FEI LIM ~
 ## 1.Enable a screen
 ```
 screen -R ynode
+chmod 777 ynode
 ```
 ## 2.Connect the seed node and start your node
 ```
